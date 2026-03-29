@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sharatkumar-dev/sharatkumar-dev/main/GitHub%20banner.png" alt="banner" width="100%" />
 </p>
-# Hi 👋, I'm Sharatkumar Naik
+ Hi 👋, I'm Sharatkumar Naik
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&center=true&vCenter=true&width=750&lines=Premium+Web+Experiences+%7C+UI%2FUX+Driven;Frontend+Developer+%2B+Creative+Designer;Building+Fast%2C+Beautiful+%26+High-Converting+Websites" />
