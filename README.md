@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_IMAGE_LINK](https://github.com/sharatkumar-dev/sharatkumar-dev/blob/91e0a4420d5397f7504f310ba9d9769e4bcb967f/GitHub%20banner.png)" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sharatkumar-dev/sharatkumar-dev/main/GitHub%20banner.png" alt="banner" width="100%" />
 </p>
 # Hi 👋, I'm Sharatkumar Naik
 
