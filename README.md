@@ -111,5 +111,3 @@ If you're looking for:
 ---
 
 ⭐ Explore my work and feel free to connect.
-
-<!-- Replace YOUR_USERNAME and add real links before publishing -->
