@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sharatkumar-dev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 High-conversion commerce platform designed for scalability with SEO-first architecture.
 
 ### 🏢 Corporate Portfolio Site
-Professional consulting website with booking system and smooth UI interactions.
+Professional consulting website with a booking system and smooth UI interactions.
 
 ### 🏨 Luxe Hospitality Identity
 Premium brand + digital design system for a boutique hotel.
@@ -85,7 +85,7 @@ Premium brand + digital design system for a boutique hotel.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sharatkumar-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
