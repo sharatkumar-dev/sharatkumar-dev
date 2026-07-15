@@ -1,3 +1,9 @@
+# Sharatkumar Naik — Full‑Stack Developer & Graphic Designer
+
+Full‑stack engineer building fast, accessible, and conversion‑focused web experiences using Next.js, React, TypeScript, Node.js, Python, Tailwind CSS, and Figma. Portfolio: https://sharatkumar-dev.vercel.app · LinkedIn: https://www.linkedin.com/in/sharatkumar-naik-tech-policy
+
+<!-- keep images and badges below this plain-text intro so search engines see the text first -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sharatkumar-dev/sharatkumar-dev/main/GitHub%20banner.png" alt="banner" width="100%" />
 </p>
@@ -5,7 +11,7 @@
 ## Hi 👋, I'm Sharatkumar Naik
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&center=true&vCenter=true&width=750&lines=Premium+Web+Experiences+%7C+UI%2FUX+Driven;Frontend+Developer+%2B+Creative+Designer;Building+Fast%2C+Beautiful+%26+High-Converting+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&center=true&vCenter=true&width=750&lines=Premium+Web+Experiences+%7C+UI%2FUX+Driven;Frontend[...]
 </p>
 
 <p align="center">
