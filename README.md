@@ -6,7 +6,7 @@ I build modern web applications with a focus on clean interfaces, useful functio
 
 My current toolkit includes **Next.js, React, TypeScript, Node.js, Python, Tailwind CSS, PostgreSQL, and Figma**.
 
-🌐 [Portfolio](https://sharatkumar-dev.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/sharatkumar-naik-tech-policy)
+🌐 [Portfolio](https://sharatkumar-dev.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/sharatkumar-dev)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sharatkumar-dev/sharatkumar-dev/main/GitHub%20banner.png" alt="Sharatkumar Naik GitHub profile banner" width="100%" />
