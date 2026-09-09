@@ -1,4 +1,4 @@
-# Sharatkumar Naik
+<h1 align="center">Sharatkumar Naik</h1>
 
 **Full-Stack Developer · UI/UX Designer · Graphic Designer**
 
